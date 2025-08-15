@@ -37,9 +37,11 @@ main {
 
 form {
     display: flex;
+    flex-wrap: wrap; /* permite quebrar linha */
     gap: 10px;
     margin-bottom: 1rem;
 }
+
 
 input {
     flex: 1;
