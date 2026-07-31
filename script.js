@@ -1,5 +1,5 @@
 const lista = document.getElementById("listaClientes");
-const API_URL = "https://crudcrud.com/api/aa0098655c0347238ade77e3384a848c/clientes";// Trocar pelo seu endpoint
+const API_URL = "https://crudcrud.com/api/aa0098655c0347238ade77e3384a848c/clientes";
 
 // Função para exibir erros
 function mostrarErro(mensagem){
